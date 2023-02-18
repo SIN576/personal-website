@@ -1,0 +1,38 @@
+.container-service{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+p{
+    color: #cfdce1;
+}
+.margin{
+    margin-left: 16px;
+}
+.card{
+    border-radius: 5px;
+    background-color: #212224;
+    padding: 16px;
+    width: 200px;
+    margin: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    text-align: start !important;
+    border-color: #e1a60c;
+    opacity: 0.7;
+}
+.card:hover{
+    opacity: 1;
+}
+.title{
+    font-weight: bold;
+}
+.list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

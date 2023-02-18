@@ -1,0 +1,12 @@
+.container-profile{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+.button{
+    flex-direction: row;
+}

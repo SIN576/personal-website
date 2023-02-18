@@ -1,0 +1,26 @@
+.body {
+    background-color: #2d2e30;
+    margin: 0 !important;
+}
+.color-yellow{
+    color: #e1a60c;
+}
+.button-inline{
+    padding: 8px 16px 8px 16px !important;
+    border-radius: 10px;
+    color: #212224;
+    background-color: #e1a60c;
+    width: 130px;
+}
+.button-outline{
+    padding: 8px 16px 8px 16px !important;
+    border-radius: 10px;
+    border-color: #e1a60c;
+    color: #cfdce1;
+    background-color: transparent;
+    width: 130px;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+}

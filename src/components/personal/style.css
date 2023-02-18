@@ -1,0 +1,15 @@
+.container-personal{
+    height: 350px;
+    background-color: #64666b;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+p{
+    color: #cfdce1;
+}
+.margin{
+    margin-left: 16px;
+}
