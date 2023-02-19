@@ -13,3 +13,9 @@ p{
 .margin{
     margin-left: 16px;
 }
+.noted-card{
+    background-color: #2d2e30;
+    padding-left: 64px;
+    padding-right: 64px;
+    border-radius: 10px;
+}
