@@ -7,8 +7,7 @@ function Profile() {
       <h3 className="color-yellow">About Me</h3>
       <p>
         My name is Soy Sin. I was born on 20 May 2000.
-        <br></br>I am a Mobile Developer. I want to make everything to you if
-        need.
+        <br></br>I am a Mobile Developer.
         <br></br>I want to build everything that you need.
       </p>
       <div className="button">
