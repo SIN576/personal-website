@@ -68,3 +68,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# Peronal Website
+This is a website that talk about my information.
+
+## Technoloy used
+- React.js : UI Framework
+- Firebase : Tool for hosting
+
+## Deployment
+```
+yarn build
+firebase deploy
+```
+
+## Next Relase
+- Download CV as pdf
+- Add detail of each skill
+- Create Portfolio and connect it
